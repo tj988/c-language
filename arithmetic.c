@@ -44,20 +44,20 @@ int main (void)
     // Assignment operators.
 
     // Plus equals.
-    int AssignSum = 2;
-    AssignSum += 3;
+    int assignSum = 2;
+    assignSum += 3;
 
     // Minus equals.
-    int AssignDiff = 3;
-    AssignDiff -= 1;
+    int assignDiff = 3;
+    assignDiff -= 1;
 
     // Multiplication assignment operator.
-    int AssignProd = 2;
-    AssignProd *= 3;
+    int assignProd = 2;
+    assignProd *= 3;
 
     // Division assignment operator.
-    int AssignQuot = 4;
-    AssignQuot /= 2;
+    int assignQuot = 4;
+    assignQuot /= 2;
 
     return 0;
 }

@@ -11,7 +11,7 @@ int main(void)
 
     // Floating point types.
     float myFloat = 17.22f;
-    double myDouble = 11.399f;
+    double myDouble = 11.399;
 
     // Char type.
     char myChar = 'C';

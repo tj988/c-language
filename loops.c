@@ -50,5 +50,7 @@ int main(void)
         printf("%i\n", m);
         
     }
+
+    return 0;
 }
 

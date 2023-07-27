@@ -47,6 +47,7 @@ int main(void)
         {
             continue;
         }
+        printf("%i\n", m);
         
     }
 }
